@@ -1,0 +1,52 @@
+code,title,credits,department,semester
+CSE1001,Introduction to Programming,3,Computer Science,FALL
+MAT2001,Calculus II,4,Mathematics,FALL
+PHY1050,General Physics I,4,Physics,SPRING
+CSE3001,Object-Oriented Programming,4,Computer Science,WINTER
+CSE2050,Data Structures and Algorithms,3,Computer Science,SPRING
+CSE2110,Computer Systems and Architecture,4,Computer Science,FALL
+CSE3050,Database Management Systems,3,Computer Science,WINTER
+CSE4001,Software Engineering,3,Computer Science,FALL
+CSE4050,Operating Systems,3,Computer Science,SPRING
+CSE4100,Computer Networks,3,Computer Science,WINTER
+MAT1001,Calculus I,4,Mathematics,FALL
+MAT3001,Linear Algebra,3,Mathematics,SPRING
+MAT3050,Discrete Mathematics,3,Mathematics,WINTER
+STAT2001,Statistics for Engineers,3,Mathematics,FALL
+PHY2060,General Physics II,4,Physics,FALL
+ENG1001,Technical Writing,2,English,SPRING
+ENG1050,Communication Skills,2,English,WINTER
+CSE5001,Machine Learning,3,Computer Science,SPRING
+CSE5050,Artificial Intelligence,3,Computer Science,WINTER
+CSE5100,Advanced Database Systems,3,Computer Science,FALL
+CSE6001,Capstone Project I,2,Computer Science,FALL
+CSE6002,Capstone Project II,2,Computer Science,SPRING
+ECE2001,Digital Logic Design,3,Electronics,FALL
+ECE2050,Circuit Analysis,3,Electronics,SPRING
+ECE3001,Microprocessors,3,Electronics,WINTER
+CSE3100,Web Technologies,3,Computer Science,SPRING
+CSE3150,Mobile Application Development,3,Computer Science,FALL
+CSE4150,Computer Graphics,3,Computer Science,WINTER
+CSE4200,Cybersecurity,3,Computer Science,SPRING
+CSE4250,Compiler Design,3,Computer Science,FALL
+MGMT3001,Project Management,2,Management,WINTER
+MGMT3050,Entrepreneurship,2,Management,SPRING
+CHEM1001,Engineering Chemistry,3,Chemistry,FALL
+BIO1001,Biology for Engineers,3,Biology,SPRING
+ENV2001,Environmental Science,2,Environmental Studies,WINTER
+HUM1001,Ethics in Technology,2,Humanities,SPRING
+HUM1050,Philosophy of Science,2,Humanities,FALL
+PSY2001,Human-Computer Interaction,2,Psychology,WINTER
+ECO2001,Engineering Economics,2,Economics,SPRING
+CSE2200,Programming Paradigms,3,Computer Science,WINTER
+CSE3200,Software Testing,2,Computer Science,FALL
+CSE4300,Distributed Systems,3,Computer Science,SPRING
+CSE4350,Cloud Computing,3,Computer Science,WINTER
+CSE5150,Data Mining,3,Computer Science,FALL
+CSE5200,Computer Vision,3,Computer Science,SPRING
+CSE5250,Natural Language Processing,3,Computer Science,WINTER
+MAT4001,Numerical Methods,3,Mathematics,FALL
+MAT4050,Probability Theory,3,Mathematics,SPRING
+STAT3001,Applied Statistics,3,Mathematics,WINTER
+PHY3001,Modern Physics,3,Physics,FALL
+PHY3050,Quantum Mechanics,4,Physics,SPRING
